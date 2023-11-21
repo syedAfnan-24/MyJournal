@@ -1,0 +1,2 @@
+import{p as t,b as r}from"./p-6c788c93.js";export{s as setNonce}from"./p-6c788c93.js";const o=()=>{const r=import.meta.url;const o={};if(r!==""){o.resourcesUrl=new URL(".",r).href}return t(o)};o().then((t=>r([["p-4494de0f",[[1,"nav-bar",{first:[1],second:[1],third:[1],fourth:[1],firstPath:[1,"first-path"],secondPath:[1,"second-path"],thirdPath:[1,"third-path"],fourthPath:[1,"fourth-path"],drop:[32]}]]]],t)));
+//# sourceMappingURL=myjournal.esm.js.map

@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "components/nav-bar/nav-bar.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.7.2",
+    "typescriptVersion": "5.2.2"
+  },
+  "collections": [],
+  "bundles": []
+}
